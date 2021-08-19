@@ -1,0 +1,177 @@
+body {
+  margin: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.bg-image {
+  height: 500px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.fc {
+  position: absolute;
+  width: 30%;
+  right: 450px;
+  color: #BD4B4B;
+  text-align: center;
+  top: 200px;
+}
+
+.content {
+  position: absolute;
+  top: 100px;
+  right: 400px;
+  text-align: center;
+}
+
+.first-container {
+  height: 500px;
+  position: relative;
+}
+
+.second-container {
+  width: 100%;
+  height: 600px;
+  background-color: #EEEEEE;
+}
+
+.third-container {
+  width: 100%;
+  height: 500px;
+  padding-top: 20px;
+  background-color: #FBF6F0;
+}
+
+.fourth-container {
+  width: 100%;
+  height: 500px;
+
+}
+
+.fifth-container {
+  width: 100%;
+  height: 200px;
+  background-color:#E0ECE4;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 2rem;
+}
+
+.sixth-container {
+  width: 100%;;
+  height: 400px;
+  background-color:#FFAEC0;
+}
+
+.seventh-container {
+  width: 100%;
+  height: 50px;
+  background-color: #94EBCD;
+  font-family: cursive;
+  color:#F0E5D8;
+}
+
+.just-content {
+  margin: 0;
+  position: relative;
+  left: 550px;
+  padding-top: 50px;
+  width: 20%;
+  text-align: center;
+  /* text-align: center; */
+}
+
+
+
+
+
+hr {
+  border-style: dotted;
+  border-top: 0;
+  width: 5%;
+  border-width: medium;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: #B5FFD9;
+}
+
+.para {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.code {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 600px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  padding: 100px;
+  margin: 10px;
+}
+
+.service {
+  text-align: center;
+}
+.food-img
+{
+  height:500px;
+  width:100%;
+}
+.btn {
+  background: pink;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #BBDFC8;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.contact-p
+{
+  margin-top:0;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 2rem;
+}
+.contact-cont
+{
+  text-align: center;
+  font-size: 1rem;
+}
+.last
+{
+  margin-top: 0;
+  text-align: center;
+  padding-top: 10px;
+
+}
+.tel-img{
+  height:10%;
+  width:5%;
+  position: relative;
+  bottom:100px;
+  left:400px
+}
+.tel-im
+{
+  height:10%;
+  width:5%;
+  position: relative;
+  bottom:100px;
+  left:800px;
+}
